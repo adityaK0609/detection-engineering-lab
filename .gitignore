@@ -1,0 +1,13 @@
+﻿*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.iso
+*.vdi
+*.vmdk
+*.ova
+.env
+.env.*
+*.log
